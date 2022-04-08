@@ -19,6 +19,6 @@ int main() {
 		}
 		counter += 2;
 		
-		printf("%f\n", sum * 4);
+		printf("%.15f\n", sum * 4);
 	}
 }
