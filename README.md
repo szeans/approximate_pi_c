@@ -1,2 +1,2 @@
 # approximate_pi
-approximating pi
+Using the Leibniz formula to approximate pi.
